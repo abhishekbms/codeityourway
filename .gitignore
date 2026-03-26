@@ -1,0 +1,8 @@
+# Generated presentation files
+*.pptx
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
